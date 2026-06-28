@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NuwTmy3K/A=",
+  "success": true,
+  "projectFilePath": "C:\\Blazor Deep Dive Course\\BlazorDeepDive\\ToDoApp\\ToDoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
