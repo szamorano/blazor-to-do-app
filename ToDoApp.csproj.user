@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Blazor Deep Dive Course\BlazorDeepDive\ServerManagement\.github\workflows\blazor-to-do-app.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
